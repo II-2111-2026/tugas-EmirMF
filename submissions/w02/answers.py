@@ -2,7 +2,7 @@
 
 Aturan pengisian:
 - Implementasikan fungsi q01()..q12() sesuai soal di weeks/w02/quiz.qmd
-- Jangan ubah nama fungsi.
+- Jangan ubah nama fungsi. 
 
 Format jawaban:
 - T/F    -> bool  (True=Benar, False=Salah)
