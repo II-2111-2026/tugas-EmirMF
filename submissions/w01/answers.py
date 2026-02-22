@@ -9,7 +9,9 @@ Format jawaban:
 - MC     -> str   ("A"/"B"/"C"/"D")
 - Numeric-> int/float (desimal pakai '.')
 """
+
 from __future__ import annotations
+
 def q01() -> bool:
     """[T/F] Dalam model probabilistik, output yang sama akan selalu dihasilkan dari input yang
 sama terlepas dari variasi acak."""
@@ -35,7 +37,7 @@ D) Jumlah bit dalam satu byte."""
     return "C"
 
 def q05() -> str:
-    """[MC] Jika sebuah ruang sampel S terdiri dari 4 kejadian yang memiliki peluang sama,
+    """[MC] Jika sebuah ruang sampel  terdiri dari 4 kejadian yang memiliki peluang sama,
 maka probabilitas satu kejadian adalah:
 
 A) 0,5
